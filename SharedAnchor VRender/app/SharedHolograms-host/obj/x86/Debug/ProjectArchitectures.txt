@@ -1,0 +1,4 @@
+C:\Users\HLdev\Downloads\YongHyun\developver\SharedAnchor VRender\app\SharedHolograms-host\SharedHolograms-host.csproj;x86
+C:\Users\HLdev\Downloads\YongHyun\developver\SharedAnchor VRender\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\HLdev\Downloads\YongHyun\developver\SharedAnchor VRender\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\HLdev\Downloads\YongHyun\developver\SharedAnchor VRender\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

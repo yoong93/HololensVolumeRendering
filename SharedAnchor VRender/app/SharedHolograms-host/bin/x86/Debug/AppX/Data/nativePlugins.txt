@@ -1,0 +1,4 @@
+VuforiaWrapper.dll
+SharingClient.dll
+Vuforia.dll
+AudioPluginMsHRTF.dll

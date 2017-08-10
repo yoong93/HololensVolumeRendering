@@ -1,0 +1,2 @@
+C:\Users\HLdev\Downloads\YongHyun\bessiver\HolographicAcademy-1.5.4-240\SharedHolograms\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\HLdev\Downloads\YongHyun\developver\SharedHolograms-host\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
