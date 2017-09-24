@@ -20,7 +20,7 @@ Microsoft Hololens Application for shared experience in medical area, developed 
   - Implemented Volume Rendering of CT scan results into 3D cube. Codes implemented from            http://graphicsrunner.blogspot.kr/2009/02/volume-rendering-201-optimizations.html, 
  https://github.com/gillesferrand/Unity-RayTracing
  
- ![Alt text](chest.png?raw=true "Title")
+<img src="chest.png" width="250">
 
 ## 5. Further Application 
   - Model picked from Onedrive / filepicker.
