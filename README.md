@@ -14,9 +14,14 @@ Microsoft Hololens Application for shared experience in medical area, developed 
   - Start Tracking : Start Tracking the model. 
   
 ## 3. Tracking 
+  - Tracking using Vuforia Tracking images. Tracking Image is in VRender/Assets/Vuforia/Target.jpg
   
-
 ## 4. Volume Rendering
-## 5. Further Application  
+  - Implemented Volume Rendering of CT scan results into 3D cube. Codes implemented from            http://graphicsrunner.blogspot.kr/2009/02/volume-rendering-201-optimizations.html, 
+ https://github.com/gillesferrand/Unity-RayTracing
+ 
+ ![Alt text](chest.png?raw=true "Title")
+
+## 5. Further Application 
   - Model picked from Onedrive / filepicker.
   - Optimization of Volume Rendering, Transfer Function
